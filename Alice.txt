@@ -1,2 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 I'm changing Alice. Alice is from Wunderland.
+Alice has a cat named Cheshire. He lives at the High Point Drive In.
